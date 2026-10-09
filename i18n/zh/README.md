@@ -807,9 +807,9 @@ the agent went wrong and explain why...
 | 30 | [MCP Registry Supply Chain: Admission, Drift, and Rollback](../../phases/13-tools-and-protocols/30-mcp-registry-supply-chain-and-drift/) | Build | Python |
 | 31 | [MCP Conformance Engineering: Versioning, Evidence, and Operations](../../phases/13-tools-and-protocols/31-mcp-conformance-versioning-and-operations/) | Build | Python |
 
-第 06–18 课和第 28–31 课构成了专注的 [Model Context Protocol (MCP) path](../../learning-paths/model-context-protocol.json)。其清单顺序为 06、07、08、09、10、11、12、13、14、15、16、18、17、28、29、30、31。请使用上方针对当前宿主的 `learn-mcp` 调用开始学习。第 23 课是其中唯一的可选综合项目，同时还要求完成第 19 课和第 20 课。
+第 06–18 课和第 28–31 课构成了专注的 [模型上下文协议（MCP）学习路径](../../learning-paths/model-context-protocol.json)。其清单顺序为 06、07、08、09、10、11、12、13、14、15、16、18、17、28、29、30、31。请使用上方针对当前宿主的 `learn-mcp` 调用开始学习。第 23 课是其中唯一的可选综合项目，同时还要求完成第 19 课和第 20 课。
 
-第 22 课和第 24–27 课构成了专注的 [Agent Skills learning path](../../learning-paths/agent-skills.json)，内容从包契约一直延伸到真实宿主的发布门禁。请使用上方针对当前宿主的 `learn-agent-skills` 调用开始学习；不要按数字顺序从第 22 课跳转到第 23 课。
+第 22 课和第 24–27 课构成了专注的 [智能体技能学习路径](../../learning-paths/agent-skills.json)，内容从包契约一直延伸到真实宿主的发布门禁。请使用上方针对当前宿主的 `learn-agent-skills` 调用开始学习；不要按数字顺序从第 22 课跳转到第 23 课。
 
 </details>
 
@@ -876,7 +876,7 @@ the agent went wrong and explain why...
 
 阶段 14 的每节工作台课程（31–42）都附带一份 `mission.md`，供智能体在打开完整课程文档前了解任务简报。
 
-第 31–46 课构成 [Agent-Assisted Engineering path](../../learning-paths/using-coding-agents.json)。其清单顺序将工作台基础与任务界定、规划、委派和持久反馈结合起来。第 47–54 课构成 [Product Judgment and Delivery path](../../learning-paths/shaping-the-build.json)，内容涵盖成果界定、证据、风险、范围、度量、分阶段发布和反馈责任。
+第 31–46 课构成 [智能体辅助工程学习路径](../../learning-paths/using-coding-agents.json)。其清单顺序将工作台基础与任务界定、规划、委派和持久反馈结合起来。第 47–54 课构成 [产品判断与交付学习路径](../../learning-paths/shaping-the-build.json)，内容涵盖成果界定、证据、风险、范围、度量、分阶段发布和反馈责任。
 
 </details>
 
