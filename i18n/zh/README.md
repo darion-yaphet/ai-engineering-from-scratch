@@ -342,7 +342,7 @@ live exam questions, and cannot guarantee a passing score.
 </tr>
 </table>
 
-> 使用 `python3 scripts/install_skills.py <target>` 一次性安装全部成果。这些是真正的工具，不是作业。学完整套课程时，你将拥有由 523 项成果组成的作品集；因为它们都是你亲手构建的，所以你真正理解每一项成果。
+> 使用 `python3 scripts/install_skills.py <target> --type all` 一次性安装全部成果。这些是真正的工具，不是作业。学完整套课程时，你将拥有由 523 项成果组成的作品集；因为它们都是你亲手构建的，所以你真正理解每一项成果。
 
 ### 图 002 · 完整示例
 
